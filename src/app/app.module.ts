@@ -4,13 +4,12 @@ import { NgxOneSignalModule } from 'ngx-onesignal';
 import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
-import { appId } from './onesignal-key';
 
 @NgModule({
   declarations: [AppComponent],
   imports: [
     NgxOneSignalModule.forRoot({
-      appId,
+      appId: 'yourAppId',
       allowLocalhostAsSecureOrigin: true,
       autoRegister: false,
       notifyButton: {

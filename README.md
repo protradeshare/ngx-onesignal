@@ -9,13 +9,13 @@ Angular [OneSignal](https://onesignal.com/)
 [![https://nodei.co/npm/ngx-onesignal.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/ngx-onesignal.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ngx-onesignal)
 
 [![npm version](https://badge.fury.io/js/ngx-onesignal.svg)](https://badge.fury.io/js/ngx-onesignal)
-[![Build Status](https://travis-ci.com/MSakamaki/ngx-onesignal.svg?branch=master)](https://travis-ci.com/MSakamaki/ngx-onesignal)
-[![Maintainability](https://api.codeclimate.com/v1/badges/493932302a1a925b8f12/maintainability)](https://codeclimate.com/github/MSakamaki/ngx-onesignal/maintainability)
+[![Build Status](https://travis-ci.com/protradeshare/ngx-onesignal.svg?branch=master)](https://travis-ci.com/protradeshare/ngx-onesignal)
+[![Maintainability](https://api.codeclimate.com/v1/badges/493932302a1a925b8f12/maintainability)](https://codeclimate.com/github/protradeshare/ngx-onesignal/maintainability)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 [![Node version](https://img.shields.io/node/v/ngx-onesignal.svg?style=flat)](http://nodejs.org/download/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-[![dependencies Status](https://david-dm.org/MSakamaki/ngx-onesignal/status.svg)](https://david-dm.org/MSakamaki/ngx-onesignal)
-[![HitCount](http://hits.dwyl.com/MSakamaki/ngx-onesignal.svg)](http://hits.dwyl.com/MSakamaki/ngx-onesignal)
+[![dependencies Status](https://david-dm.org/protradeshare/ngx-onesignal/status.svg)](https://david-dm.org/protradeshare/ngx-onesignal)
+[![HitCount](http://hits.dwyl.com/protradeshare/ngx-onesignal.svg)](http://hits.dwyl.com/protradeshare/ngx-onesignal)
 
 ## used
 
@@ -43,7 +43,7 @@ npx @angular/cli add ngx-onesignal --appId=[your onesignal appId]
 
 ### 3. custmize angular app
 
-see [sample code](https://github.com/MSakamaki/ngx-onesignal/tree/master/src/app)
+see [sample code](https://github.com/protradeshare/ngx-onesignal/tree/master/src/app)
 
 ### 4. build and run
 
